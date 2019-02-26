@@ -4,3 +4,5 @@
 
 /.vs/WebApp/v15
 /WebApp/obj
+/WebApp/bin/Debug/netcoreapp2.2
+/.vs
